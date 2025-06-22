@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-22)
+
+<section class="features">
+
+### Features
+
+-   [`995b4d5`](https://github.com/stdlib-js/stdlib/commit/995b4d5c49877edf1baf18ec259b17911988d7d8) - add support for accessor arrays and refactor `stats/base/nanvariance` [(#7391)](https://github.com/stdlib-js/stdlib/pull/7391)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5673](https://github.com/stdlib-js/stdlib/issues/5673)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`995b4d5`](https://github.com/stdlib-js/stdlib/commit/995b4d5c49877edf1baf18ec259b17911988d7d8) - **feat:** add support for accessor arrays and refactor `stats/base/nanvariance` [(#7391)](https://github.com/stdlib-js/stdlib/pull/7391) _(by Gururaj Gurram, stdlib-bot)_
 -   [`8477e77`](https://github.com/stdlib-js/stdlib/commit/8477e77f71a4560cdf0365c85eedef29b007cc5c) - **refactor:** update paths _(by Aayush Khanna)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Gururaj Gurram
 
 </section>
 
